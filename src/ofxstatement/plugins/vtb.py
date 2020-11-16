@@ -1,7 +1,6 @@
 #    VTB (https://www.vtb.ru/) plugin for ofxstatement
 #
-#    Copyright 2013 Andrey Lebedev <andrey@lebedev.lt>
-#    Copyright 2016 Alexander Gerasiov <gq@cs.msu.su>
+#    Copyright 2019 Rashit Azizbaev <syndicut@gmail.com>
 #    Copyright 2020 Dmitry Pavlov <zeldigas@gmail.com>
 #
 #    This program is free software: you can redistribute it and/or modify
